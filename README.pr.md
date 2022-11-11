@@ -1,20 +1,20 @@
 # Voximplant
   
-Module for sending SMS with Voximplant  
+Módulo para envio de SMS com Voximplant  
 
 *Read this in other languages: [English](README.md), [Español](README.es.md), [Portugués](README.pr.md)*
 
-## How to install this module
+## Como instalar este módulo
   
-__Download__ and __install__ the content in 'modules' folder in Rocketbot path  
+__Baixe__ e __instale__ o conteúdo na pasta 'modules' no caminho do Rocketbot  
 
 
 
 ## Overview
 
 
-1. Send SMS  
-Send SMS  
+1. Enviar SMS  
+Enviar SMS  
 
 
 
