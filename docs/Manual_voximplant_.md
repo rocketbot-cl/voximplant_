@@ -23,3 +23,4 @@ Send SMS
 |Destination Number|Destination number|56955555555|
 |Message|Message to send|Test Message|
   
+
